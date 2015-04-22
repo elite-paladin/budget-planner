@@ -3,3 +3,4 @@
 * Refactor CLI parser
 * Implement storage model
 * Clean up config loader
+* Extend error handling
