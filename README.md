@@ -10,3 +10,4 @@ A personal budget & finance planner.
 - 2015-04-09: implement storage model
 - 2015-04-12: clean up config loader
 - 2015-04-22: extend error handling
+- 2015-05-21: handle export tool
