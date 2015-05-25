@@ -4,3 +4,4 @@
 * Implement storage model
 * Clean up config loader
 * Extend error handling
+* Simplify validation
