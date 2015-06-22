@@ -12,3 +12,4 @@ A personal budget & finance planner.
 - 2015-04-22: extend error handling
 - 2015-05-21: handle export tool
 - 2015-05-25: simplify validation
+- 2015-06-22: implement cache layer

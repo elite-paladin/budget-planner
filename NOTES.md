@@ -5,3 +5,4 @@
 * Clean up config loader
 * Extend error handling
 * Simplify validation
+* Implement cache layer
