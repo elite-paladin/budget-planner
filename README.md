@@ -14,3 +14,4 @@ A personal budget & finance planner.
 - 2015-05-25: simplify validation
 - 2015-06-22: implement cache layer
 - 2015-06-23: extend fetch helper
+- 2015-07-26: implement cli parser
