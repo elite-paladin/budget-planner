@@ -8,3 +8,4 @@
 * Implement cache layer
 * Extend fetch helper
 * Document type hints
+* Document config loader
