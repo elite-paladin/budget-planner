@@ -17,3 +17,4 @@ A personal budget & finance planner.
 - 2015-07-26: implement cli parser
 - 2015-08-03: document type hints
 - 2015-08-08: document config loader
+- 2015-08-25: simplify retry logic

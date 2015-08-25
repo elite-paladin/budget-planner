@@ -9,3 +9,4 @@
 * Extend fetch helper
 * Document type hints
 * Document config loader
+* Simplify retry logic
