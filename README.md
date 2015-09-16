@@ -18,3 +18,4 @@ A personal budget & finance planner.
 - 2015-08-03: document type hints
 - 2015-08-08: document config loader
 - 2015-08-25: simplify retry logic
+- 2015-09-16: tweak retry logic
