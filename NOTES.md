@@ -10,3 +10,4 @@
 * Document type hints
 * Document config loader
 * Simplify retry logic
+* Clean up type hints
