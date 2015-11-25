@@ -11,3 +11,4 @@
 * Document config loader
 * Simplify retry logic
 * Clean up type hints
+* Refactor CLI parser
