@@ -12,3 +12,4 @@
 * Simplify retry logic
 * Clean up type hints
 * Refactor CLI parser
+* Fix logging

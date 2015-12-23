@@ -21,3 +21,4 @@ A personal budget & finance planner.
 - 2015-09-16: tweak retry logic
 - 2015-10-18: clean up type hints
 - 2015-11-24: refactor cli parser
+- 2015-12-22: fix logging
