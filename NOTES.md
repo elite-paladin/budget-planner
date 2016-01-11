@@ -13,3 +13,4 @@
 * Clean up type hints
 * Refactor CLI parser
 * Fix logging
+* Extend logging
