@@ -24,3 +24,4 @@ A personal budget & finance planner.
 - 2015-12-22: fix logging
 - 2015-12-28: update error handling
 - 2016-01-11: extend logging
+- 2016-02-21: refactor storage model

@@ -14,3 +14,4 @@
 * Refactor CLI parser
 * Fix logging
 * Extend logging
+* Refactor storage model
