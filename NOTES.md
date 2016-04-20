@@ -16,3 +16,4 @@
 * Extend logging
 * Refactor storage model
 * Tweak type hints
+* Fix storage model
