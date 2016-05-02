@@ -28,3 +28,4 @@ A personal budget & finance planner.
 - 2016-03-08: tweak type hints
 - 2016-04-02: extend type hints
 - 2016-04-20: fix storage model
+- 2016-05-02: add export tool
