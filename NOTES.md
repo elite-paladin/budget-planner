@@ -18,3 +18,4 @@
 * Tweak type hints
 * Fix storage model
 * Add export tool
+* Handle config loader
