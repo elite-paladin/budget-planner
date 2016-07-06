@@ -20,3 +20,4 @@
 * Add export tool
 * Handle config loader
 * Update unit tests
+* Implement formatter
