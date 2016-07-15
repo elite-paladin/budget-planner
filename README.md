@@ -33,3 +33,4 @@ A personal budget & finance planner.
 - 2016-06-07: refactor fetch helper
 - 2016-06-17: update unit tests
 - 2016-07-06: implement formatter
+- 2016-07-15: rework error handling
