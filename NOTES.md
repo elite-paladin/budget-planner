@@ -22,3 +22,4 @@
 * Update unit tests
 * Implement formatter
 * Rework error handling
+* Fix cache layer

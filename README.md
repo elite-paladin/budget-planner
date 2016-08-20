@@ -35,3 +35,4 @@ A personal budget & finance planner.
 - 2016-07-06: implement formatter
 - 2016-07-15: rework error handling
 - 2016-07-20: polish import tool
+- 2016-08-20: fix cache layer
