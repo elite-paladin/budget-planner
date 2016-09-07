@@ -23,3 +23,4 @@
 * Implement formatter
 * Rework error handling
 * Fix cache layer
+* Improve formatter
