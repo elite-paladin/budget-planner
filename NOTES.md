@@ -24,3 +24,4 @@
 * Rework error handling
 * Fix cache layer
 * Improve formatter
+* Rework config loader
