@@ -38,3 +38,4 @@ A personal budget & finance planner.
 - 2016-08-20: fix cache layer
 - 2016-09-07: improve formatter
 - 2016-09-21: rework config loader
+- 2016-10-26: rework type hints
