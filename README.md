@@ -39,3 +39,4 @@ A personal budget & finance planner.
 - 2016-09-07: improve formatter
 - 2016-09-21: rework config loader
 - 2016-10-26: rework type hints
+- 2016-11-06: add logging
