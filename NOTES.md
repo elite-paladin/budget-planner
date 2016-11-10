@@ -26,3 +26,4 @@
 * Improve formatter
 * Rework config loader
 * Add logging
+* Add cache layer
