@@ -27,3 +27,4 @@
 * Rework config loader
 * Add logging
 * Add cache layer
+* Add validation
