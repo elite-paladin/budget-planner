@@ -42,3 +42,4 @@ A personal budget & finance planner.
 - 2016-11-06: add logging
 - 2016-11-10: add cache layer
 - 2016-12-21: add validation
+- 2017-01-17: refactor cache layer
