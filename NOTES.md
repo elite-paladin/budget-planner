@@ -28,3 +28,4 @@
 * Add logging
 * Add cache layer
 * Add validation
+* Tweak CLI parser
