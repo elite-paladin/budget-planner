@@ -44,3 +44,4 @@ A personal budget & finance planner.
 - 2016-12-21: add validation
 - 2017-01-17: refactor cache layer
 - 2017-01-20: tweak cli parser
+- 2017-01-21: implement storage model

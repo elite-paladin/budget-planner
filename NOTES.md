@@ -29,3 +29,4 @@
 * Add cache layer
 * Add validation
 * Tweak CLI parser
+* Implement storage model
