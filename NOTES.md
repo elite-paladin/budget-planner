@@ -30,3 +30,4 @@
 * Add validation
 * Tweak CLI parser
 * Implement storage model
+* Clean up type hints
