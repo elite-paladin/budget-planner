@@ -46,3 +46,4 @@ A personal budget & finance planner.
 - 2017-01-20: tweak cli parser
 - 2017-01-21: implement storage model
 - 2017-02-07: clean up type hints
+- 2017-02-12: update validation
