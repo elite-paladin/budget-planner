@@ -31,3 +31,4 @@
 * Tweak CLI parser
 * Implement storage model
 * Clean up type hints
+* Implement import tool
