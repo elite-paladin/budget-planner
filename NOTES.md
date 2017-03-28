@@ -32,3 +32,4 @@
 * Implement storage model
 * Clean up type hints
 * Implement import tool
+* Implement type hints
