@@ -50,3 +50,4 @@ A personal budget & finance planner.
 - 2017-03-11: implement import tool
 - 2017-03-28: implement type hints
 - 2017-04-01: add unit tests
+- 2017-04-02: improve config loader
