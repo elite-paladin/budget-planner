@@ -34,3 +34,4 @@
 * Implement import tool
 * Implement type hints
 * Add unit tests
+* Polish logging
