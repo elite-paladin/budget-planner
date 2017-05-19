@@ -35,3 +35,4 @@
 * Implement type hints
 * Add unit tests
 * Polish logging
+* Handle logging
