@@ -53,3 +53,4 @@ A personal budget & finance planner.
 - 2017-04-02: improve config loader
 - 2017-05-05: polish logging
 - 2017-05-19: handle logging
+- 2017-06-14: handle validation

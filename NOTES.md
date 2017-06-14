@@ -36,3 +36,4 @@
 * Add unit tests
 * Polish logging
 * Handle logging
+* Handle validation
