@@ -55,3 +55,4 @@ A personal budget & finance planner.
 - 2017-05-19: handle logging
 - 2017-06-14: handle validation
 - 2017-06-24: improve cache layer
+- 2017-07-09: fix config loader

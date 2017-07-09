@@ -37,3 +37,4 @@
 * Polish logging
 * Handle logging
 * Handle validation
+* Fix config loader
