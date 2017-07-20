@@ -38,3 +38,4 @@
 * Handle logging
 * Handle validation
 * Fix config loader
+* Document retry logic
