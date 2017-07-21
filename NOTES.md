@@ -39,3 +39,4 @@
 * Handle validation
 * Fix config loader
 * Document retry logic
+* Refactor retry logic
