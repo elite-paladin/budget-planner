@@ -58,3 +58,4 @@ A personal budget & finance planner.
 - 2017-07-09: fix config loader
 - 2017-07-20: document retry logic
 - 2017-07-21: refactor retry logic
+- 2017-08-01: simplify logging
