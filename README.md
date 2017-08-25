@@ -60,3 +60,4 @@ A personal budget & finance planner.
 - 2017-07-21: refactor retry logic
 - 2017-08-01: simplify logging
 - 2017-08-10: refactor fetch helper
+- 2017-08-25: rework fetch helper
