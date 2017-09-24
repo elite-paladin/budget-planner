@@ -61,3 +61,4 @@ A personal budget & finance planner.
 - 2017-08-01: simplify logging
 - 2017-08-10: refactor fetch helper
 - 2017-08-25: rework fetch helper
+- 2017-09-24: polish cache layer
