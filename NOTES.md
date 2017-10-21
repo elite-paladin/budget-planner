@@ -43,3 +43,4 @@
 * Refactor fetch helper
 * Rework fetch helper
 * Polish cache layer
+* Improve error handling
