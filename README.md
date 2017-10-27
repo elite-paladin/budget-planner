@@ -64,3 +64,4 @@ A personal budget & finance planner.
 - 2017-09-24: polish cache layer
 - 2017-09-26: handle formatter
 - 2017-10-21: improve error handling
+- 2017-10-27: fix config loader

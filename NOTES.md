@@ -44,3 +44,4 @@
 * Rework fetch helper
 * Polish cache layer
 * Improve error handling
+* Fix config loader
