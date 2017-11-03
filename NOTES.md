@@ -45,3 +45,4 @@
 * Polish cache layer
 * Improve error handling
 * Fix config loader
+* Tweak error handling
