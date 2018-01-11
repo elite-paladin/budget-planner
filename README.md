@@ -67,3 +67,4 @@ A personal budget & finance planner.
 - 2017-10-27: fix config loader
 - 2017-11-02: tweak error handling
 - 2017-12-10: document retry logic
+- 2018-01-11: simplify import tool

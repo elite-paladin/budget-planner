@@ -46,3 +46,4 @@
 * Improve error handling
 * Fix config loader
 * Tweak error handling
+* Simplify import tool
