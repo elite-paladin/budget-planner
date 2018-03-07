@@ -69,3 +69,4 @@ A personal budget & finance planner.
 - 2017-12-10: document retry logic
 - 2018-01-11: simplify import tool
 - 2018-02-15: rework config loader
+- 2018-03-07: clean up type hints

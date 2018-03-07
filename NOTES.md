@@ -48,3 +48,4 @@
 * Tweak error handling
 * Simplify import tool
 * Rework config loader
+* Clean up type hints
