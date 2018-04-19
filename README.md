@@ -71,3 +71,4 @@ A personal budget & finance planner.
 - 2018-02-15: rework config loader
 - 2018-03-07: clean up type hints
 - 2018-03-22: rework storage model
+- 2018-04-19: clean up fetch helper
