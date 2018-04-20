@@ -50,3 +50,4 @@
 * Rework config loader
 * Clean up type hints
 * Clean up fetch helper
+* Tweak logging
