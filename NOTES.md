@@ -51,3 +51,4 @@
 * Clean up type hints
 * Clean up fetch helper
 * Tweak logging
+* Handle unit tests

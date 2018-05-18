@@ -73,3 +73,4 @@ A personal budget & finance planner.
 - 2018-03-22: rework storage model
 - 2018-04-19: clean up fetch helper
 - 2018-04-20: tweak logging
+- 2018-05-17: handle unit tests
