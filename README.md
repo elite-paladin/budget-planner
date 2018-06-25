@@ -75,3 +75,4 @@ A personal budget & finance planner.
 - 2018-04-20: tweak logging
 - 2018-05-17: handle unit tests
 - 2018-06-07: refactor unit tests
+- 2018-06-25: handle retry logic
