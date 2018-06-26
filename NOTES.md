@@ -53,3 +53,4 @@
 * Tweak logging
 * Handle unit tests
 * Handle retry logic
+* Tweak validation
