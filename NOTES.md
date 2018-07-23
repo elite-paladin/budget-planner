@@ -54,3 +54,4 @@
 * Handle unit tests
 * Handle retry logic
 * Tweak validation
+* Fix type hints

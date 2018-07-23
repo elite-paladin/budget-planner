@@ -77,3 +77,4 @@ A personal budget & finance planner.
 - 2018-06-07: refactor unit tests
 - 2018-06-25: handle retry logic
 - 2018-06-26: tweak validation
+- 2018-07-23: fix type hints
