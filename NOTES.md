@@ -55,3 +55,4 @@
 * Handle retry logic
 * Tweak validation
 * Fix type hints
+* Implement error handling
