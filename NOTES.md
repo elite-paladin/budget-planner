@@ -56,3 +56,4 @@
 * Tweak validation
 * Fix type hints
 * Implement error handling
+* Improve unit tests
