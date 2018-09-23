@@ -57,3 +57,4 @@
 * Fix type hints
 * Implement error handling
 * Improve unit tests
+* Update storage model
