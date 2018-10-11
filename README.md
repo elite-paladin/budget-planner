@@ -83,3 +83,4 @@ A personal budget & finance planner.
 - 2018-09-17: improve unit tests
 - 2018-09-23: update storage model
 - 2018-10-03: refactor cache layer
+- 2018-10-11: extend type hints
