@@ -60,3 +60,4 @@
 * Update storage model
 * Extend type hints
 * Implement formatter
+* Improve config loader
