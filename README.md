@@ -86,3 +86,4 @@ A personal budget & finance planner.
 - 2018-10-11: extend type hints
 - 2018-10-19: implement formatter
 - 2018-11-11: improve config loader
+- 2018-11-13: implement error handling
