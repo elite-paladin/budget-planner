@@ -61,3 +61,4 @@
 * Extend type hints
 * Implement formatter
 * Improve config loader
+* Document storage model

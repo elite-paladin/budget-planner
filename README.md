@@ -87,3 +87,4 @@ A personal budget & finance planner.
 - 2018-10-19: implement formatter
 - 2018-11-11: improve config loader
 - 2018-11-13: implement error handling
+- 2018-11-15: document storage model
