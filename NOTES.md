@@ -62,3 +62,4 @@
 * Implement formatter
 * Improve config loader
 * Document storage model
+* Implement storage model
