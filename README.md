@@ -89,3 +89,4 @@ A personal budget & finance planner.
 - 2018-11-13: implement error handling
 - 2018-11-15: document storage model
 - 2018-12-13: implement storage model
+- 2018-12-17: clean up cache layer

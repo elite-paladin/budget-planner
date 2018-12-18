@@ -63,3 +63,4 @@
 * Improve config loader
 * Document storage model
 * Implement storage model
+* Clean up cache layer
