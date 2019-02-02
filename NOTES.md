@@ -64,3 +64,4 @@
 * Document storage model
 * Implement storage model
 * Clean up cache layer
+* Polish error handling
