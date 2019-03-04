@@ -92,3 +92,4 @@ A personal budget & finance planner.
 - 2018-12-17: clean up cache layer
 - 2019-01-07: rework type hints
 - 2019-02-02: polish error handling
+- 2019-03-04: improve import tool
