@@ -94,3 +94,4 @@ A personal budget & finance planner.
 - 2019-02-02: polish error handling
 - 2019-03-04: improve import tool
 - 2019-03-11: refactor type hints
+- 2019-03-18: clean up unit tests
