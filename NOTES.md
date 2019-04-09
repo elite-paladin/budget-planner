@@ -67,3 +67,4 @@
 * Polish error handling
 * Improve import tool
 * Refactor type hints
+* Add storage model

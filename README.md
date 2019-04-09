@@ -95,3 +95,4 @@ A personal budget & finance planner.
 - 2019-03-04: improve import tool
 - 2019-03-11: refactor type hints
 - 2019-03-18: clean up unit tests
+- 2019-04-09: add storage model
