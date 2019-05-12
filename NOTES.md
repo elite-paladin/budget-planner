@@ -68,3 +68,4 @@
 * Improve import tool
 * Refactor type hints
 * Add storage model
+* Add cache layer
