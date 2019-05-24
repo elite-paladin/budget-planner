@@ -69,3 +69,4 @@
 * Refactor type hints
 * Add storage model
 * Add cache layer
+* Polish CLI parser
