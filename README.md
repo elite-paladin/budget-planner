@@ -98,3 +98,4 @@ A personal budget & finance planner.
 - 2019-04-09: add storage model
 - 2019-05-12: add cache layer
 - 2019-05-24: polish cli parser
+- 2019-06-26: tweak config loader
