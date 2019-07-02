@@ -100,3 +100,4 @@ A personal budget & finance planner.
 - 2019-05-24: polish cli parser
 - 2019-06-26: tweak config loader
 - 2019-06-27: update export tool
+- 2019-07-02: refactor unit tests
