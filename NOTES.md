@@ -72,3 +72,4 @@
 * Polish CLI parser
 * Update export tool
 * Refactor unit tests
+* Extend retry logic
