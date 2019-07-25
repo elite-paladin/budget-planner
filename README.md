@@ -102,3 +102,4 @@ A personal budget & finance planner.
 - 2019-06-27: update export tool
 - 2019-07-02: refactor unit tests
 - 2019-07-20: extend retry logic
+- 2019-07-25: polish formatter
