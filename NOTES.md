@@ -73,3 +73,4 @@
 * Update export tool
 * Refactor unit tests
 * Extend retry logic
+* Polish error handling
