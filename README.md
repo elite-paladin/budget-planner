@@ -104,3 +104,4 @@ A personal budget & finance planner.
 - 2019-07-20: extend retry logic
 - 2019-07-25: polish formatter
 - 2019-08-13: polish error handling
+- 2019-09-01: handle type hints
