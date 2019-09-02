@@ -75,3 +75,4 @@
 * Extend retry logic
 * Polish error handling
 * Handle type hints
+* Simplify type hints
