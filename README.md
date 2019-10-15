@@ -106,3 +106,4 @@ A personal budget & finance planner.
 - 2019-08-13: polish error handling
 - 2019-09-01: handle type hints
 - 2019-09-02: simplify type hints
+- 2019-10-15: update cli parser
