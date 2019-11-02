@@ -76,3 +76,4 @@
 * Polish error handling
 * Handle type hints
 * Simplify type hints
+* Simplify config loader
