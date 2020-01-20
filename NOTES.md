@@ -78,3 +78,4 @@
 * Simplify type hints
 * Simplify config loader
 * Document export tool
+* Extend unit tests

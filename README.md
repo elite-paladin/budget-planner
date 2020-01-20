@@ -109,3 +109,4 @@ A personal budget & finance planner.
 - 2019-10-15: update cli parser
 - 2019-11-02: simplify config loader
 - 2019-12-10: document export tool
+- 2020-01-19: extend unit tests
