@@ -79,3 +79,4 @@
 * Simplify config loader
 * Document export tool
 * Extend unit tests
+* Simplify CLI parser

@@ -111,3 +111,4 @@ A personal budget & finance planner.
 - 2019-12-10: document export tool
 - 2020-01-19: extend unit tests
 - 2020-01-21: improve storage model
+- 2020-02-22: simplify cli parser
