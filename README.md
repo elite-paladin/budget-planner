@@ -112,3 +112,4 @@ A personal budget & finance planner.
 - 2020-01-19: extend unit tests
 - 2020-01-21: improve storage model
 - 2020-02-22: simplify cli parser
+- 2020-02-28: simplify validation
