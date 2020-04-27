@@ -114,3 +114,4 @@ A personal budget & finance planner.
 - 2020-02-22: simplify cli parser
 - 2020-02-28: simplify validation
 - 2020-03-28: extend export tool
+- 2020-04-27: tweak import tool
