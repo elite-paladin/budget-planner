@@ -82,3 +82,4 @@
 * Simplify CLI parser
 * Simplify validation
 * Extend export tool
+* Polish type hints

@@ -115,3 +115,4 @@ A personal budget & finance planner.
 - 2020-02-28: simplify validation
 - 2020-03-28: extend export tool
 - 2020-04-27: tweak import tool
+- 2020-05-11: polish type hints
