@@ -83,3 +83,4 @@
 * Simplify validation
 * Extend export tool
 * Polish type hints
+* Tweak validation
