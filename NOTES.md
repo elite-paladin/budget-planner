@@ -84,3 +84,4 @@
 * Extend export tool
 * Polish type hints
 * Tweak validation
+* Clean up fetch helper
