@@ -118,3 +118,4 @@ A personal budget & finance planner.
 - 2020-05-11: polish type hints
 - 2020-06-06: tweak validation
 - 2020-06-26: clean up fetch helper
+- 2020-06-28: update error handling
