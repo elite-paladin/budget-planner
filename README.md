@@ -119,3 +119,4 @@ A personal budget & finance planner.
 - 2020-06-06: tweak validation
 - 2020-06-26: clean up fetch helper
 - 2020-06-28: update error handling
+- 2020-07-09: update cache layer
