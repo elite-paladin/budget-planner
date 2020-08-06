@@ -87,3 +87,4 @@
 * Clean up fetch helper
 * Update cache layer
 * Improve unit tests
+* Add CLI parser
