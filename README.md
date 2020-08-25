@@ -122,3 +122,4 @@ A personal budget & finance planner.
 - 2020-07-09: update cache layer
 - 2020-07-22: improve unit tests
 - 2020-08-06: add cli parser
+- 2020-08-25: simplify import tool
