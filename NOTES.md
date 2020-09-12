@@ -88,3 +88,4 @@
 * Update cache layer
 * Improve unit tests
 * Add CLI parser
+* Fix export tool
