@@ -89,3 +89,4 @@
 * Improve unit tests
 * Add CLI parser
 * Fix export tool
+* Refactor formatter

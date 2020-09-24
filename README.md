@@ -124,3 +124,4 @@ A personal budget & finance planner.
 - 2020-08-06: add cli parser
 - 2020-08-25: simplify import tool
 - 2020-09-12: fix export tool
+- 2020-09-24: refactor formatter
