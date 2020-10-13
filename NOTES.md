@@ -90,3 +90,4 @@
 * Add CLI parser
 * Fix export tool
 * Refactor formatter
+* Update fetch helper
