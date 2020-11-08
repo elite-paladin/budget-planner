@@ -127,3 +127,4 @@ A personal budget & finance planner.
 - 2020-09-24: refactor formatter
 - 2020-10-12: update fetch helper
 - 2020-11-05: tweak formatter
+- 2020-11-08: update import tool
