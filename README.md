@@ -129,3 +129,4 @@ A personal budget & finance planner.
 - 2020-11-05: tweak formatter
 - 2020-11-08: update import tool
 - 2020-12-14: tweak logging
+- 2020-12-26: polish unit tests
