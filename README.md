@@ -131,3 +131,4 @@ A personal budget & finance planner.
 - 2020-12-14: tweak logging
 - 2020-12-26: polish unit tests
 - 2021-01-19: extend unit tests
+- 2021-01-24: document retry logic
