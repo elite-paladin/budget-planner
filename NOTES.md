@@ -95,3 +95,4 @@
 * Tweak logging
 * Polish unit tests
 * Document retry logic
+* Clean up unit tests
