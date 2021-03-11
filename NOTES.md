@@ -96,3 +96,4 @@
 * Polish unit tests
 * Document retry logic
 * Clean up unit tests
+* Handle validation

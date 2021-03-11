@@ -133,3 +133,4 @@ A personal budget & finance planner.
 - 2021-01-19: extend unit tests
 - 2021-01-24: document retry logic
 - 2021-02-18: clean up unit tests
+- 2021-03-11: handle validation
