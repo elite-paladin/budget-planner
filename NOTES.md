@@ -97,3 +97,4 @@
 * Document retry logic
 * Clean up unit tests
 * Handle validation
+* Simplify retry logic
