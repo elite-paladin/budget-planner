@@ -98,3 +98,4 @@
 * Clean up unit tests
 * Handle validation
 * Simplify retry logic
+* Update formatter
