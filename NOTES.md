@@ -99,3 +99,4 @@
 * Handle validation
 * Simplify retry logic
 * Update formatter
+* Simplify type hints

@@ -137,3 +137,4 @@ A personal budget & finance planner.
 - 2021-03-12: refactor config loader
 - 2021-04-20: simplify retry logic
 - 2021-05-12: update formatter
+- 2021-06-08: simplify type hints
