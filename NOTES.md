@@ -101,3 +101,4 @@
 * Update formatter
 * Simplify type hints
 * Add import tool
+* Clean up CLI parser

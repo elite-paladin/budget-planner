@@ -140,3 +140,4 @@ A personal budget & finance planner.
 - 2021-06-08: simplify type hints
 - 2021-07-05: improve storage model
 - 2021-08-12: add import tool
+- 2021-08-23: clean up cli parser
