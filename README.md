@@ -142,3 +142,4 @@ A personal budget & finance planner.
 - 2021-08-12: add import tool
 - 2021-08-23: clean up cli parser
 - 2021-09-02: rework cli parser
+- 2021-09-20: update logging
