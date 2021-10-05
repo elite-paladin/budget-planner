@@ -144,3 +144,4 @@ A personal budget & finance planner.
 - 2021-09-02: rework cli parser
 - 2021-09-20: update logging
 - 2021-10-04: simplify logging
+- 2021-10-05: document fetch helper

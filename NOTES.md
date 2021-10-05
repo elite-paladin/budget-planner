@@ -104,3 +104,4 @@
 * Clean up CLI parser
 * Rework CLI parser
 * Simplify logging
+* Document fetch helper
