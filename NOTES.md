@@ -103,3 +103,4 @@
 * Add import tool
 * Clean up CLI parser
 * Rework CLI parser
+* Simplify logging
