@@ -105,3 +105,4 @@
 * Rework CLI parser
 * Simplify logging
 * Document fetch helper
+* Update validation
