@@ -146,3 +146,4 @@ A personal budget & finance planner.
 - 2021-10-04: simplify logging
 - 2021-10-05: document fetch helper
 - 2021-10-16: update validation
+- 2021-11-23: simplify cache layer
