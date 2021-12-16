@@ -106,3 +106,4 @@
 * Simplify logging
 * Document fetch helper
 * Update validation
+* Simplify config loader
