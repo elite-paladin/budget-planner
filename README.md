@@ -148,3 +148,4 @@ A personal budget & finance planner.
 - 2021-10-16: update validation
 - 2021-11-23: simplify cache layer
 - 2021-12-16: simplify config loader
+- 2021-12-19: clean up cache layer
