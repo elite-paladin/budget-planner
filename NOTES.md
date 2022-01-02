@@ -108,3 +108,4 @@
 * Update validation
 * Simplify config loader
 * Clean up cache layer
+* Add fetch helper
