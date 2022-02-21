@@ -151,3 +151,4 @@ A personal budget & finance planner.
 - 2021-12-19: clean up cache layer
 - 2022-01-02: add fetch helper
 - 2022-02-07: clean up formatter
+- 2022-02-20: update config loader
