@@ -153,3 +153,4 @@ A personal budget & finance planner.
 - 2022-02-07: clean up formatter
 - 2022-02-20: update config loader
 - 2022-03-01: extend import tool
+- 2022-04-07: clean up import tool
