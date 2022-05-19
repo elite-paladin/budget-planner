@@ -155,3 +155,4 @@ A personal budget & finance planner.
 - 2022-03-01: extend import tool
 - 2022-04-07: clean up import tool
 - 2022-04-09: update error handling
+- 2022-05-19: improve type hints

@@ -112,3 +112,4 @@
 * Update config loader
 * Extend import tool
 * Clean up import tool
+* Improve type hints
