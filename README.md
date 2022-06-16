@@ -157,3 +157,4 @@ A personal budget & finance planner.
 - 2022-04-09: update error handling
 - 2022-05-19: improve type hints
 - 2022-06-05: simplify export tool
+- 2022-06-16: polish validation

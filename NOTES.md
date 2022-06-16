@@ -114,3 +114,4 @@
 * Clean up import tool
 * Improve type hints
 * Simplify export tool
+* Polish validation
