@@ -158,3 +158,4 @@ A personal budget & finance planner.
 - 2022-05-19: improve type hints
 - 2022-06-05: simplify export tool
 - 2022-06-16: polish validation
+- 2022-07-09: tweak import tool
