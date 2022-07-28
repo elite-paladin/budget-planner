@@ -159,3 +159,4 @@ A personal budget & finance planner.
 - 2022-06-05: simplify export tool
 - 2022-06-16: polish validation
 - 2022-07-09: tweak import tool
+- 2022-07-28: refactor cli parser

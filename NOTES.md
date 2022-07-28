@@ -115,3 +115,4 @@
 * Improve type hints
 * Simplify export tool
 * Polish validation
+* Refactor CLI parser
