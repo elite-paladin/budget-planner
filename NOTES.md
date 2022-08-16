@@ -116,3 +116,4 @@
 * Simplify export tool
 * Polish validation
 * Refactor CLI parser
+* Tweak formatter

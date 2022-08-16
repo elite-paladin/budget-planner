@@ -160,3 +160,4 @@ A personal budget & finance planner.
 - 2022-06-16: polish validation
 - 2022-07-09: tweak import tool
 - 2022-07-28: refactor cli parser
+- 2022-08-16: tweak formatter
