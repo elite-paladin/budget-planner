@@ -117,3 +117,4 @@
 * Polish validation
 * Refactor CLI parser
 * Tweak formatter
+* Polish type hints
