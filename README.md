@@ -163,3 +163,4 @@ A personal budget & finance planner.
 - 2022-08-16: tweak formatter
 - 2022-09-25: polish type hints
 - 2022-10-10: rework unit tests
+- 2022-10-23: tweak formatter
