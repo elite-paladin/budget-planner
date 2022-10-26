@@ -119,3 +119,4 @@
 * Tweak formatter
 * Polish type hints
 * Tweak formatter
+* Implement storage model
