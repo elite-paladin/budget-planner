@@ -165,3 +165,4 @@ A personal budget & finance planner.
 - 2022-10-10: rework unit tests
 - 2022-10-23: tweak formatter
 - 2022-10-26: implement storage model
+- 2022-11-03: extend fetch helper
