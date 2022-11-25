@@ -121,3 +121,4 @@
 * Tweak formatter
 * Implement storage model
 * Extend fetch helper
+* Update error handling
