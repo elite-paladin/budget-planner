@@ -123,3 +123,4 @@
 * Extend fetch helper
 * Update error handling
 * Extend error handling
+* Polish error handling

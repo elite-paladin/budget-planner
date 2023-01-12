@@ -169,3 +169,4 @@ A personal budget & finance planner.
 - 2022-11-12: tweak formatter
 - 2022-11-25: update error handling
 - 2022-12-14: extend error handling
+- 2023-01-12: polish error handling
