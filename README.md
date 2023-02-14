@@ -171,3 +171,4 @@ A personal budget & finance planner.
 - 2022-12-14: extend error handling
 - 2023-01-12: polish error handling
 - 2023-02-11: extend unit tests
+- 2023-02-13: extend validation
