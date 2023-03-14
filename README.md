@@ -173,3 +173,4 @@ A personal budget & finance planner.
 - 2023-02-11: extend unit tests
 - 2023-02-13: extend validation
 - 2023-02-22: document export tool
+- 2023-03-13: improve unit tests
