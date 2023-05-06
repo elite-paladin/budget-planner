@@ -175,3 +175,4 @@ A personal budget & finance planner.
 - 2023-02-22: document export tool
 - 2023-03-13: improve unit tests
 - 2023-04-10: implement unit tests
+- 2023-05-05: document formatter

@@ -127,3 +127,4 @@
 * Extend validation
 * Document export tool
 * Improve unit tests
+* Document formatter
