@@ -128,3 +128,4 @@
 * Document export tool
 * Improve unit tests
 * Document formatter
+* Extend cache layer
