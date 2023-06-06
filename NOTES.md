@@ -129,3 +129,4 @@
 * Improve unit tests
 * Document formatter
 * Extend cache layer
+* Refactor config loader

@@ -177,3 +177,4 @@ A personal budget & finance planner.
 - 2023-04-10: implement unit tests
 - 2023-05-05: document formatter
 - 2023-06-01: extend cache layer
+- 2023-06-05: refactor config loader
