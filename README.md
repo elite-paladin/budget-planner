@@ -178,3 +178,4 @@ A personal budget & finance planner.
 - 2023-05-05: document formatter
 - 2023-06-01: extend cache layer
 - 2023-06-05: refactor config loader
+- 2023-06-26: polish type hints
