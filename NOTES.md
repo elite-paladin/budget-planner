@@ -131,3 +131,4 @@
 * Extend cache layer
 * Refactor config loader
 * Handle export tool
+* Document storage model
