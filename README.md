@@ -181,3 +181,4 @@ A personal budget & finance planner.
 - 2023-06-26: polish type hints
 - 2023-07-09: handle export tool
 - 2023-08-24: document storage model
+- 2023-08-26: handle formatter
