@@ -183,3 +183,4 @@ A personal budget & finance planner.
 - 2023-08-24: document storage model
 - 2023-08-26: handle formatter
 - 2023-09-17: tweak unit tests
+- 2023-10-05: simplify import tool

@@ -133,3 +133,4 @@
 * Handle export tool
 * Document storage model
 * Handle formatter
+* Simplify import tool
