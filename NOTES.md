@@ -134,3 +134,4 @@
 * Document storage model
 * Handle formatter
 * Simplify import tool
+* Document logging
