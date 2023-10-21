@@ -135,3 +135,4 @@
 * Handle formatter
 * Simplify import tool
 * Document logging
+* Rework CLI parser
