@@ -186,3 +186,4 @@ A personal budget & finance planner.
 - 2023-10-05: simplify import tool
 - 2023-10-15: document logging
 - 2023-10-21: rework cli parser
+- 2023-11-04: clean up export tool
