@@ -136,3 +136,4 @@
 * Simplify import tool
 * Document logging
 * Rework CLI parser
+* Improve export tool
