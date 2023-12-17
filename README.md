@@ -188,3 +188,4 @@ A personal budget & finance planner.
 - 2023-10-21: rework cli parser
 - 2023-11-04: clean up export tool
 - 2023-12-08: improve export tool
+- 2023-12-17: implement type hints

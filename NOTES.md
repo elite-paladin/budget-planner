@@ -137,3 +137,4 @@
 * Document logging
 * Rework CLI parser
 * Improve export tool
+* Implement type hints
