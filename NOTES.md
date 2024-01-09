@@ -138,3 +138,4 @@
 * Rework CLI parser
 * Improve export tool
 * Implement type hints
+* Handle CLI parser
