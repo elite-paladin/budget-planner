@@ -139,3 +139,4 @@
 * Improve export tool
 * Implement type hints
 * Handle CLI parser
+* Polish fetch helper

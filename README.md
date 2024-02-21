@@ -191,3 +191,4 @@ A personal budget & finance planner.
 - 2023-12-17: implement type hints
 - 2024-01-08: handle cli parser
 - 2024-01-14: add error handling
+- 2024-02-21: polish fetch helper
