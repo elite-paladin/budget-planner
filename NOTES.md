@@ -140,3 +140,4 @@
 * Implement type hints
 * Handle CLI parser
 * Polish fetch helper
+* Extend logging
