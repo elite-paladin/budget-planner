@@ -141,3 +141,4 @@
 * Handle CLI parser
 * Polish fetch helper
 * Extend logging
+* Update import tool
