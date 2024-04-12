@@ -142,3 +142,4 @@
 * Polish fetch helper
 * Extend logging
 * Update import tool
+* Rework formatter

@@ -195,3 +195,4 @@ A personal budget & finance planner.
 - 2024-02-24: extend logging
 - 2024-03-02: update import tool
 - 2024-04-05: clean up cache layer
+- 2024-04-12: rework formatter
