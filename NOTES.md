@@ -143,3 +143,4 @@
 * Extend logging
 * Update import tool
 * Rework formatter
+* Polish CLI parser
