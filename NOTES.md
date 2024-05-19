@@ -144,3 +144,4 @@
 * Update import tool
 * Rework formatter
 * Polish CLI parser
+* Refactor type hints
