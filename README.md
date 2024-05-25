@@ -198,3 +198,4 @@ A personal budget & finance planner.
 - 2024-04-12: rework formatter
 - 2024-04-14: polish cli parser
 - 2024-05-19: refactor type hints
+- 2024-05-25: document fetch helper
