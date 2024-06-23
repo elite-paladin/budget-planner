@@ -146,3 +146,4 @@
 * Polish CLI parser
 * Refactor type hints
 * Handle type hints
+* Polish formatter

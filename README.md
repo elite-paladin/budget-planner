@@ -200,3 +200,4 @@ A personal budget & finance planner.
 - 2024-05-19: refactor type hints
 - 2024-05-25: document fetch helper
 - 2024-06-20: handle type hints
+- 2024-06-23: polish formatter
