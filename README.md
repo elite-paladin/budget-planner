@@ -202,3 +202,4 @@ A personal budget & finance planner.
 - 2024-06-20: handle type hints
 - 2024-06-23: polish formatter
 - 2024-07-24: document export tool
+- 2024-08-02: polish cache layer
