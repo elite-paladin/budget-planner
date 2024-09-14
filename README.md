@@ -204,3 +204,4 @@ A personal budget & finance planner.
 - 2024-07-24: document export tool
 - 2024-08-02: polish cache layer
 - 2024-08-08: document export tool
+- 2024-09-14: rework unit tests
