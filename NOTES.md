@@ -150,3 +150,4 @@
 * Document export tool
 * Document export tool
 * Rework unit tests
+* Tweak storage model
