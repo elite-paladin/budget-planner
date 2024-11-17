@@ -152,3 +152,4 @@
 * Rework unit tests
 * Tweak storage model
 * Document storage model
+* Simplify unit tests
