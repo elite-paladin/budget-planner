@@ -153,3 +153,4 @@
 * Tweak storage model
 * Document storage model
 * Simplify unit tests
+* Simplify logging

@@ -209,3 +209,4 @@ A personal budget & finance planner.
 - 2024-09-28: update type hints
 - 2024-10-24: document storage model
 - 2024-11-17: simplify unit tests
+- 2024-11-19: simplify logging
