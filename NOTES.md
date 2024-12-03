@@ -154,3 +154,4 @@
 * Document storage model
 * Simplify unit tests
 * Simplify logging
+* Simplify type hints
