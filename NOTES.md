@@ -155,3 +155,4 @@
 * Simplify unit tests
 * Simplify logging
 * Simplify type hints
+* Extend storage model
