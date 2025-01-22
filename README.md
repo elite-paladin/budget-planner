@@ -213,3 +213,4 @@ A personal budget & finance planner.
 - 2024-11-21: update formatter
 - 2024-12-02: simplify type hints
 - 2024-12-24: extend storage model
+- 2025-01-22: refactor config loader

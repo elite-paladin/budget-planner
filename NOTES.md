@@ -156,3 +156,4 @@
 * Simplify logging
 * Simplify type hints
 * Extend storage model
+* Refactor config loader
