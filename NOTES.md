@@ -157,3 +157,4 @@
 * Simplify type hints
 * Extend storage model
 * Refactor config loader
+* Fix type hints
