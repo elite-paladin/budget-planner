@@ -159,3 +159,4 @@
 * Refactor config loader
 * Fix type hints
 * Improve error handling
+* Add config loader
