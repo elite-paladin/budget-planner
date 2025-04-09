@@ -218,3 +218,4 @@ A personal budget & finance planner.
 - 2025-02-18: fix type hints
 - 2025-03-02: improve error handling
 - 2025-03-08: add config loader
+- 2025-04-09: tweak storage model
