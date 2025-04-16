@@ -160,3 +160,4 @@
 * Fix type hints
 * Improve error handling
 * Add config loader
+* Extend type hints
