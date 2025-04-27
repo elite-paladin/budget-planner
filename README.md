@@ -220,3 +220,4 @@ A personal budget & finance planner.
 - 2025-03-08: add config loader
 - 2025-04-09: tweak storage model
 - 2025-04-16: extend type hints
+- 2025-04-27: update unit tests

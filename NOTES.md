@@ -161,3 +161,4 @@
 * Improve error handling
 * Add config loader
 * Extend type hints
+* Update unit tests
