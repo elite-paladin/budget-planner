@@ -162,3 +162,4 @@
 * Add config loader
 * Extend type hints
 * Update unit tests
+* Rework logging
