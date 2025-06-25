@@ -163,3 +163,4 @@
 * Extend type hints
 * Update unit tests
 * Rework logging
+* Update retry logic

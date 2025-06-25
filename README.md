@@ -223,3 +223,4 @@ A personal budget & finance planner.
 - 2025-04-27: update unit tests
 - 2025-05-23: rework logging
 - 2025-06-20: improve cache layer
+- 2025-06-24: update retry logic
