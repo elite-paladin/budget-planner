@@ -224,3 +224,4 @@ A personal budget & finance planner.
 - 2025-05-23: rework logging
 - 2025-06-20: improve cache layer
 - 2025-06-24: update retry logic
+- 2025-07-02: refactor error handling
