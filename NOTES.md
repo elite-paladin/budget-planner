@@ -165,3 +165,4 @@
 * Rework logging
 * Update retry logic
 * Refactor error handling
+* Refactor type hints
