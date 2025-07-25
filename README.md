@@ -226,3 +226,4 @@ A personal budget & finance planner.
 - 2025-06-24: update retry logic
 - 2025-07-02: refactor error handling
 - 2025-07-03: refactor type hints
+- 2025-07-24: document export tool
