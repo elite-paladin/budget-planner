@@ -227,3 +227,4 @@ A personal budget & finance planner.
 - 2025-07-02: refactor error handling
 - 2025-07-03: refactor type hints
 - 2025-07-24: document export tool
+- 2025-08-04: polish fetch helper

@@ -166,3 +166,4 @@
 * Update retry logic
 * Refactor error handling
 * Refactor type hints
+* Polish fetch helper
