@@ -167,3 +167,4 @@
 * Refactor error handling
 * Refactor type hints
 * Polish fetch helper
+* Improve error handling
