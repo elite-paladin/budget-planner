@@ -168,3 +168,4 @@
 * Refactor type hints
 * Polish fetch helper
 * Improve error handling
+* Extend formatter

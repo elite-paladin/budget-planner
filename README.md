@@ -229,3 +229,4 @@ A personal budget & finance planner.
 - 2025-07-24: document export tool
 - 2025-08-04: polish fetch helper
 - 2025-08-09: improve error handling
+- 2025-09-03: extend formatter
