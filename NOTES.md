@@ -169,3 +169,4 @@
 * Polish fetch helper
 * Improve error handling
 * Extend formatter
+* Polish error handling
