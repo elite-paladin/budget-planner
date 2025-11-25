@@ -170,3 +170,4 @@
 * Improve error handling
 * Extend formatter
 * Polish error handling
+* Improve error handling
