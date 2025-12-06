@@ -233,3 +233,4 @@ A personal budget & finance planner.
 - 2025-10-21: document config loader
 - 2025-11-16: polish error handling
 - 2025-11-25: improve error handling
+- 2025-12-06: handle type hints

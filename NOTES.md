@@ -171,3 +171,4 @@
 * Extend formatter
 * Polish error handling
 * Improve error handling
+* Handle type hints
