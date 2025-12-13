@@ -235,3 +235,4 @@ A personal budget & finance planner.
 - 2025-11-25: improve error handling
 - 2025-12-06: handle type hints
 - 2025-12-10: document formatter
+- 2025-12-12: add formatter
