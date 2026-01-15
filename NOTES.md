@@ -173,3 +173,4 @@
 * Improve error handling
 * Handle type hints
 * Add formatter
+* Improve logging
