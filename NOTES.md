@@ -174,3 +174,4 @@
 * Handle type hints
 * Add formatter
 * Improve logging
+* Implement validation

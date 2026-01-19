@@ -237,3 +237,4 @@ A personal budget & finance planner.
 - 2025-12-10: document formatter
 - 2025-12-12: add formatter
 - 2026-01-15: improve logging
+- 2026-01-19: implement validation
