@@ -175,3 +175,4 @@
 * Add formatter
 * Improve logging
 * Implement validation
+* Add fetch helper
