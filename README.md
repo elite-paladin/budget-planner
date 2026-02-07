@@ -240,3 +240,4 @@ A personal budget & finance planner.
 - 2026-01-19: implement validation
 - 2026-01-23: simplify import tool
 - 2026-02-01: add fetch helper
+- 2026-02-07: implement storage model

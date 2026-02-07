@@ -176,3 +176,4 @@
 * Improve logging
 * Implement validation
 * Add fetch helper
+* Implement storage model
