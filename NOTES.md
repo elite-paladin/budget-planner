@@ -178,3 +178,4 @@
 * Add fetch helper
 * Implement storage model
 * Rework unit tests
+* Handle CLI parser
