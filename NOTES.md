@@ -179,3 +179,4 @@
 * Implement storage model
 * Rework unit tests
 * Handle CLI parser
+* Document formatter

@@ -244,3 +244,4 @@ A personal budget & finance planner.
 - 2026-02-24: rework unit tests
 - 2026-03-18: document import tool
 - 2026-03-20: handle cli parser
+- 2026-03-27: document formatter
