@@ -180,3 +180,4 @@
 * Rework unit tests
 * Handle CLI parser
 * Document formatter
+* Refactor error handling

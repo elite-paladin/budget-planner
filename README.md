@@ -245,3 +245,4 @@ A personal budget & finance planner.
 - 2026-03-18: document import tool
 - 2026-03-20: handle cli parser
 - 2026-03-27: document formatter
+- 2026-04-07: refactor error handling
