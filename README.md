@@ -247,3 +247,4 @@ A personal budget & finance planner.
 - 2026-03-27: document formatter
 - 2026-04-07: refactor error handling
 - 2026-04-20: rework unit tests
+- 2026-04-25: tweak error handling

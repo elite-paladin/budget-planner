@@ -181,3 +181,4 @@
 * Handle CLI parser
 * Document formatter
 * Refactor error handling
+* Tweak error handling
