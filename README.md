@@ -249,3 +249,4 @@ A personal budget & finance planner.
 - 2026-04-20: rework unit tests
 - 2026-04-25: tweak error handling
 - 2026-05-21: add storage model
+- 2026-06-01: add formatter

@@ -183,3 +183,4 @@
 * Refactor error handling
 * Tweak error handling
 * Add storage model
+* Add formatter
