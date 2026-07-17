@@ -184,3 +184,4 @@
 * Tweak error handling
 * Add storage model
 * Add formatter
+* Handle formatter
