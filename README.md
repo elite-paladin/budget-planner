@@ -252,3 +252,4 @@ A personal budget & finance planner.
 - 2026-06-01: add formatter
 - 2026-06-14: update export tool
 - 2026-07-17: handle formatter
+- 2026-08-09: handle formatter
