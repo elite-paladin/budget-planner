@@ -186,3 +186,4 @@
 * Add formatter
 * Handle formatter
 * Handle formatter
+* Polish logging
