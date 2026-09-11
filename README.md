@@ -254,3 +254,4 @@ A personal budget & finance planner.
 - 2026-07-17: handle formatter
 - 2026-08-09: handle formatter
 - 2026-08-28: polish logging
+- 2026-09-10: handle validation
