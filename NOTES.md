@@ -187,3 +187,4 @@
 * Handle formatter
 * Handle formatter
 * Polish logging
+* Simplify type hints
