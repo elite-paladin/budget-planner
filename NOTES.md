@@ -188,3 +188,4 @@
 * Handle formatter
 * Polish logging
 * Simplify type hints
+* Implement retry logic
