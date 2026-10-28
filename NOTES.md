@@ -189,3 +189,4 @@
 * Polish logging
 * Simplify type hints
 * Implement retry logic
+* Document import tool

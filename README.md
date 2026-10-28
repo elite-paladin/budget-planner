@@ -257,3 +257,4 @@ A personal budget & finance planner.
 - 2026-09-10: handle validation
 - 2026-09-12: simplify type hints
 - 2026-10-26: implement retry logic
+- 2026-10-28: document import tool
